@@ -12,9 +12,9 @@ Will only put stuff on this page that I've ordered and that's genuinely good.
 
 ### 👝 Cable organizer bag
 
-This amazing cable organizer bag bla bla bla
-
 <img src="images/cable_organizer.jpg" alt="Cable Organizer"/>
+
+This amazing cable organizer bag bla bla bla
 
 🔗 [Check it out](https://nl.aliexpress.com/item/32901958471.html)
 
