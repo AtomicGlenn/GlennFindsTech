@@ -1,1 +1,4 @@
-remote_theme: poole/hyde
+remote_theme: ankitsultana/researcher@gem
+nav:
+  - name: "About"
+    link: "/about/"
