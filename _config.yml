@@ -1,4 +1,11 @@
+title: Glenn Finds Tech
+url: "https://glennfindstech.com"
+baseurl: "/"
+
+markdown: kramdown
+
 remote_theme: ankitsultana/researcher@gem
+ins_logo: "./logo.png"
 nav:
   - name: "About"
     link: "/about/"
