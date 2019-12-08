@@ -24,6 +24,12 @@ Xiaomi Mijia Wiha Screw Driver 24 in 1 Precision Kit
 
 🔗 [Check it out](http://s.click.aliexpress.com/e/4Ze2SyBq)
 
+### Smart Home
+
+NEO Coolcam Smart WiFi Plug WiFi Socket 3680W
+
+🔗 [Check it out](http://s.click.aliexpress.com/e/ls324rlW)
+
 ## Cables
 
 ## Light
