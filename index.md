@@ -14,7 +14,7 @@ Will only put stuff on this page that I've ordered, used or tested and that's ge
 
 ### 👝 Cable organizer bag
 
-<img src="images/cable_organizer.jpg" alt="Cable Organizer" height="200" width="200" />
+<img src="images/cable_organizer.jpg" alt="Cable Organizer" height="200" width="100" />
 
 This amazing cable organizer bag ($14)
 
