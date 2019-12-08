@@ -6,7 +6,7 @@ layout: default
 
 I am Glenn. I find tech. Glenn Finds Tech.
 
-Will only put stuff on this page that I've ordered and that's genuinely good.
+Will only put stuff on this page that I've ordered, used or tested and that's genuinely good.
 
 
 ## ⚙️ General Gadgets
