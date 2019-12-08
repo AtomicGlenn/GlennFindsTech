@@ -19,7 +19,7 @@ I've been using this laptop sleeve for my MacBook Pro 15" for over a year now an
 
 ### 👝 Cable organizer bag
 
-<img src="images/cable_organizer.jpg" alt="Cable Organizer bag" height="200px" width="100px" />
+<img src="images/cable_organizer.jpg" alt="Cable Organizer bag" height="200px" width="20%" />
 
 This amazing cable organizer bag ($14)
 
