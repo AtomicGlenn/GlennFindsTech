@@ -11,10 +11,15 @@ Will only put stuff on this page that I've ordered, used or tested and that's ge
 
 ## ⚙️ General Gadgets
 
+### laptop sleeve
+I've been using this laptop sleeve for my MacBook Pro 15" for over a year now and still works perfectly
+
+🔗 [Check it out](http://s.click.aliexpress.com/e/3jxRaS1a)
+
 
 ### 👝 Cable organizer bag
 
-<img src="images/cable_organizer.jpg" alt="Cable Organizer" height="200" width="100" />
+<img src="images/cable_organizer.jpg" alt="Cable Organizer bag" height="200px" width="100px" />
 
 This amazing cable organizer bag ($14)
 
