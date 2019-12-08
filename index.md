@@ -32,4 +32,10 @@ NEO Coolcam Smart WiFi Plug WiFi Socket 3680W
 
 ## Cables
 
+Ugreen RJ45 Coupler ethernetcable extender
+🔗 [Check it out](http://s.click.aliexpress.com/e/EQveoADS)
+
 ## Light
+
+
+🔗 [Check it out]()
