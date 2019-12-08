@@ -15,19 +15,20 @@ Will only put stuff on this page that I've ordered and that's genuinely good.
 
 <img src="images/cable_organizer.jpg" alt="Cable Organizer" height="200" width="200" />
 
-This amazing cable organizer bag bla bla bla
+This amazing cable organizer bag ($14)
 
-🔗 [Check it out](https://nl.aliexpress.com/item/32901958471.html)
+🔗 [Check it out](http://s.click.aliexpress.com/e/M6JFpPzQ)
+
 
 ### Mini Screwdriver Kit
 
-Xiaomi Mijia Wiha Screw Driver 24 in 1 Precision Kit
+Xiaomi Mijia Wiha Screw Driver 24 in 1 Precision Kit ($17)
 
 🔗 [Check it out](http://s.click.aliexpress.com/e/4Ze2SyBq)
 
 ### Smart Home
 
-NEO Coolcam Smart WiFi Plug WiFi Socket 3680W
+NEO Coolcam Smart WiFi Plug WiFi Socket 3680W ($13)
 
 🔗 [Check it out](http://s.click.aliexpress.com/e/ls324rlW)
 
