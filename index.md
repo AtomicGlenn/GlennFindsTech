@@ -12,7 +12,7 @@ Will only put stuff on this page that I've ordered and that's genuinely good.
 
 ### 👝 Cable organizer bag
 
-<img src="images/cable_organizer.jpg" alt="Cable Organizer">
+<img src="images/cable_organizer.jpg" alt="Cable Organizer" height="200"/>
 
 This amazing cable organizer bag bla bla bla
 
