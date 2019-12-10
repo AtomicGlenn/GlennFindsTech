@@ -1,7 +1,7 @@
 ---
 layout: default
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 ---
-
 ## About Glenn Finds Tech
 
 I am Glenn. I find tech. Glenn Finds Tech.
