@@ -6,7 +6,7 @@ markdown: kramdown
 
 remote_theme: ankitsultana/researcher@gem
 
-ins_logo: "./favicon.ico"
+ins_logo: "./icon.png"
 
 sass:
   style: compressed
