@@ -54,6 +54,11 @@ Xiaomi Yeelight smart LED bulb E27 800 Lumens
 🔗 [Check it out](http://s.click.aliexpress.com/e/rO1lqZr2)
 
 
+## Portable Monitor
+
+Uperfect 15,6" portable monitor
+
+🔗 [Check it out](https://amzn.to/2PKmaX7)
 
 
 
