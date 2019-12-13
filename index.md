@@ -72,4 +72,3 @@ Uperfect 15,6" portable monitor
 
 
 
-🔗 [Check it out]()
